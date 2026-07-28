@@ -63,5 +63,5 @@ graph TD
 
 2. **Run the Jupyter Notebook:**
    ```bash
-   jupyter notebook lab1/1.ipynb
+   jupyter notebook lab1.ipynb
    ```
